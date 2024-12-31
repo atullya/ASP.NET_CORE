@@ -1,0 +1,22 @@
+﻿
+@*
+	Here, url is passed from controller and such url is again pass to post method 
+	with username and password.
+	etracting url from controller: viewdata
+*@
+@{
+	string retUrl = ViewData["returnUrl"] as String;
+}
+
+	<h1>Welcome to Login Page</h1>
+	<form method="post" action="Login?ReturnUrl=@System.Net.WebUtility.UrlEncode(retUrl)">
+	<label>Username:</label>
+		<input type="text" name="uname"  /><br/>
+	
+		
+	<label>Password:</label>
+		<input type="text" name="pass" /><br />
+
+		<input type="submit" name="submit" value="submit" />
+
+	</form>

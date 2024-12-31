@@ -1,8 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using EFCoreNCCSB.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+//adding configuration of sql server
+builder.Services.AddDbContext<StudentContext>
+    (options => options.UseSqlServer(builder.Configuration.GetConnectionString("cs")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -3,8 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\models\\insertstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\models\\insertstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|solutionrelative:efcorenccsb\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +70,194 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T06:02:36.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Program.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:59:12.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:40:48.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:37:38.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T05:36:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwD0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:31:08.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\appsettings.json",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\appsettings.json",
+              "RelativeToolTip": "EFCoreNCCSB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T06:00:33.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "EFCoreNCCSB\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T06:00:04.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EFCoreNCCSB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T05:55:13.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "EFCoreNCCSB\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T05:38:30.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertStudent.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\InsertStudent.cs",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Models\\InsertStudent.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\InsertStudent.cs",
+              "RelativeToolTip": "EFCoreNCCSB\\Models\\InsertStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:36:11.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EFCoreNCCSB\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA9wCoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:33:12.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Program.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Program.cs",
+              "RelativeToolTip": "EFCoreNCCSB\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T08:05:01.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\Student.cs",
               "RelativeDocumentMoniker": "EFCoreNCCSB\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\Student.cs",
               "RelativeToolTip": "EFCoreNCCSB\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T05:53:22.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T05:53:22.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "EFCoreNCCSB\\Models\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\EFCoreNCCSB\\Models\\StudentContext.cs",
+              "RelativeToolTip": "EFCoreNCCSB\\Models\\StudentContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T07:55:43.435Z"
             }
           ]
         }

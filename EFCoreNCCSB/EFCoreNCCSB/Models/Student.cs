@@ -8,7 +8,7 @@
     public class Student
         //this class ise used to create neccessary parameter for creating 
         //table and it's column i.e. properties of the class will be used
-        //to create column of database
+        //to create column of database table 
     {
         public Guid Id { get; set; } //creates auto id
         public string Name { get; set; }
