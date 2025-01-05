@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\authenticationandauthorizationdemo\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{911E4C66-ED98-4EB5-A300-815E0A6DBD46}|AuthenticationAndAuthorizationDemo\\AuthenticationAndAuthorizationDemo.csproj|solutionrelative:authenticationandauthorizationdemo\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{941C8A19-39E1-4AF1-86AC-582B847D81A2}|EFCoreNCCSB\\EFCoreNCCSB.csproj|c:\\users\\atulm\\source\\repos\\efcorenccsb\\efcorenccsb\\models\\insertstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Shared\\_Layout.cshtml",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Program.cs",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Program.cs",
@@ -100,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Login.cshtml",
@@ -113,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Contact.cshtml",
               "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Contact.cshtml",
@@ -126,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Views\\Home\\Dashboard.cshtml",
@@ -139,13 +139,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\atulm\\source\\repos\\EFCoreNCCSB\\AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AuthenticationAndAuthorizationDemo\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAiwD0AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwD0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T05:31:08.754Z",
               "EditorCaption": ""

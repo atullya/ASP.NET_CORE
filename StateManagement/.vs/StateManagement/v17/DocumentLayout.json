@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atulm\\source\\repos\\StateManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|c:\\users\\atulm\\source\\repos\\statemanagement\\statemanagement\\views\\cookie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\views\\cookie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|c:\\users\\atulm\\source\\repos\\statemanagement\\statemanagement\\views\\cookie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\views\\cookie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|c:\\users\\atulm\\source\\repos\\statemanagement\\statemanagement\\views\\practise\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\views\\practise\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|c:\\users\\atulm\\source\\repos\\statemanagement\\statemanagement\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|c:\\users\\atulm\\source\\repos\\statemanagement\\statemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|c:\\users\\atulm\\source\\repos\\statemanagement\\statemanagement\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\controllers\\cookiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|c:\\users\\atulm\\source\\repos\\statemanagement\\statemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483E4B2C-10CA-4B48-940F-9C59627C725F}|StateManagement\\StateManagement.csproj|solutionrelative:statemanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StateManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StateManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:44:51.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "StateManagement\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Models\\Person.cs",
+              "RelativeToolTip": "StateManagement\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:26:55.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Views\\Cookie\\Create.cshtml",
+              "RelativeDocumentMoniker": "StateManagement\\Views\\Cookie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Views\\Cookie\\Create.cshtml",
+              "RelativeToolTip": "StateManagement\\Views\\Cookie\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T05:26:10.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Views\\Cookie\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateManagement\\Views\\Cookie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Views\\Cookie\\Index.cshtml",
+              "RelativeToolTip": "StateManagement\\Views\\Cookie\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T05:25:42.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CookieController.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Controllers\\CookieController.cs",
+              "RelativeDocumentMoniker": "StateManagement\\Controllers\\CookieController.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Controllers\\CookieController.cs",
+              "RelativeToolTip": "StateManagement\\Controllers\\CookieController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T05:23:24.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Views\\Practise\\Index.cshtml",
+              "RelativeDocumentMoniker": "StateManagement\\Views\\Practise\\Index.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Views\\Practise\\Index.cshtml",
+              "RelativeToolTip": "StateManagement\\Views\\Practise\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-02T08:26:12.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StateManagement\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\StateManagement\\StateManagement\\Models\\User.cs",
+              "RelativeToolTip": "StateManagement\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T08:13:10.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
