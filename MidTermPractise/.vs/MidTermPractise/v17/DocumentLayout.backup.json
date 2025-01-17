@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atulm\\source\\repos\\MidTermPractise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E23533D0-68F7-41CA-B864-4B0F03C23F8E}|MidTermPractise\\MidTermPractise.csproj|c:\\users\\atulm\\source\\repos\\midtermpractise\\midtermpractise\\midtermexam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E23533D0-68F7-41CA-B864-4B0F03C23F8E}|MidTermPractise\\MidTermPractise.csproj|solutionrelative:midtermpractise\\midtermexam.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E23533D0-68F7-41CA-B864-4B0F03C23F8E}|MidTermPractise\\MidTermPractise.csproj|c:\\users\\atulm\\source\\repos\\midtermpractise\\midtermpractise\\midtermexam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E23533D0-68F7-41CA-B864-4B0F03C23F8E}|MidTermPractise\\MidTermPractise.csproj|solutionrelative:midtermpractise\\midtermexam.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MidTermExam.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\MidTermPractise\\MidTermPractise\\MidTermExam.aspx.cs",
+              "RelativeDocumentMoniker": "MidTermPractise\\MidTermExam.aspx.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\MidTermPractise\\MidTermPractise\\MidTermExam.aspx.cs",
+              "RelativeToolTip": "MidTermPractise\\MidTermExam.aspx.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:28:22.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MidTermExam.aspx",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\MidTermPractise\\MidTermPractise\\MidTermExam.aspx",
+              "RelativeDocumentMoniker": "MidTermPractise\\MidTermExam.aspx",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\MidTermPractise\\MidTermPractise\\MidTermExam.aspx*",
+              "RelativeToolTip": "MidTermPractise\\MidTermExam.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-17T09:54:59.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

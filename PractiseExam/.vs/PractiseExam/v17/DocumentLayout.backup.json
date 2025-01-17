@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\models\\insertstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\models\\insertstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|c:\\users\\atulm\\source\\repos\\practiseexam\\practiseexam\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F35834-60B5-4CAA-8C77-87AAC46E6AF1}|PractiseExam\\PractiseExam.csproj|solutionrelative:practiseexam\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "PractiseExam\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "PractiseExam\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T08:32:22.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "PractiseExam\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "PractiseExam\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T08:24:04.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddStudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Student\\AddStudent.cshtml",
+              "RelativeDocumentMoniker": "PractiseExam\\Views\\Student\\AddStudent.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Student\\AddStudent.cshtml",
+              "RelativeToolTip": "PractiseExam\\Views\\Student\\AddStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T07:53:44.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertStudent.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Models\\InsertStudent.cs",
+              "RelativeDocumentMoniker": "PractiseExam\\Models\\InsertStudent.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Models\\InsertStudent.cs",
+              "RelativeToolTip": "PractiseExam\\Models\\InsertStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:51:57.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "PractiseExam\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "PractiseExam\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:45:10.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Program.cs",
+              "RelativeDocumentMoniker": "PractiseExam\\Program.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Program.cs",
+              "RelativeToolTip": "PractiseExam\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:17:24.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\appsettings.json",
+              "RelativeDocumentMoniker": "PractiseExam\\appsettings.json",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\appsettings.json",
+              "RelativeToolTip": "PractiseExam\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T06:56:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "PractiseExam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "PractiseExam\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T08:32:24.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PractiseExam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PractiseExam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T08:32:25.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "PractiseExam\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Models\\Student.cs",
+              "RelativeToolTip": "PractiseExam\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:02:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "PractiseExam\\Models\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\atulm\\source\\repos\\PractiseExam\\PractiseExam\\Models\\StudentContext.cs",
+              "RelativeToolTip": "PractiseExam\\Models\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T07:06:34.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
