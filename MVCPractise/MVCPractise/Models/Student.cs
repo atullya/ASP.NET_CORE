@@ -16,6 +16,12 @@ namespace MVCPractise.Models
         [EmailAddress(ErrorMessage = "Invalid email format")]
         public string Email { get; set; }
 
+        [Required(ErrorMessage = "Confirm Email is required")]
+        [Compare("Email", ErrorMessage = "Email and Confirm Email must match")]
+        public string ConfirmEmail { get; set; }
+
+        [Required(ErrorMessage = "Faculty is required")]
+        [RegularExpression(@"^[A-Za-z\s]+$", ErrorMessage = "Faculty must contain only alphabets")]
         public string Faculty { get; set; }
     }
 }
