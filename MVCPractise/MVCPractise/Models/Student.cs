@@ -1,15 +1,21 @@
-﻿namespace MVCPractise.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace MVCPractise.Models
 {
-    //store data. Properties (Getter and Setter is created in model)
     public class Student
     {
-        private int id;
-        private string name;
-        private string faculty;
-        public int Id {  get { return id; } set { id = value; } }
-        public string Name { get { return name; }   set { name = value; } }
-        public string Faculty { get {       return faculty; } set {     faculty = value; } }    
+        [Required(ErrorMessage = "ID is required")]
+        [Range(1, 9999, ErrorMessage = "ID must be between 1 and 9999")]
+        public int Id { get; set; }
 
+        [Required(ErrorMessage = "Name is required")]
+        [StringLength(100, MinimumLength = 50, ErrorMessage = "Name must be between 50 and 100 characters")]
+        public string Name { get; set; }
 
+        [Required(ErrorMessage = "Email is required")]
+        [EmailAddress(ErrorMessage = "Invalid email format")]
+        public string Email { get; set; }
+
+        public string Faculty { get; set; }
     }
 }

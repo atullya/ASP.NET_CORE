@@ -7,7 +7,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
+ 
             <!-- ID Field -->
             <asp:Label runat="server" ID="l1" Text="ID"></asp:Label>
             <asp:TextBox runat="server" ID="uid"></asp:TextBox>
@@ -40,7 +40,9 @@
             <asp:RangeValidator ID="rv6" ControlToValidate="age" MinimumValue="18" MaximumValue="100" Type="Integer" ErrorMessage="Age must be between 18 and 100" ForeColor="Red" runat="server"></asp:RangeValidator>
             <br />
 
+
             <!-- Gender Field -->
+             <!-- input type="radio" -->
             <asp:Label ID="l6" Text="Gender" runat="server"></asp:Label>
             <asp:RadioButton ID="rb1" GroupName="gender" Text="Male" runat="server" />
             <asp:RadioButton ID="rb2" GroupName="gender" Text="Female" runat="server" />
@@ -53,9 +55,12 @@
             <asp:CheckBox ID="chkOther" runat="server" Text="Other" />
             <br />
 
+            <!-- <select>
+                <option value=""></option>
+            </select> -->
             <!-- Faculty DropDown Field -->
             <asp:Label ID="l8" Text="Select Faculty" runat="server"></asp:Label>
-            <asp:DropDownList ID="coun" runat="server">
+            <asp:DropDownList ID="facu" runat="server">
                 <asp:ListItem Value="Select Your Faculty" Text="Select Your Faculty"></asp:ListItem>
                 <asp:ListItem Value="BIM">BIM</asp:ListItem>
                 <asp:ListItem Value="CSIT">CSIT</asp:ListItem>
@@ -63,7 +68,7 @@
             </asp:DropDownList>
             <br />
 
-            <asp:Label ID="lblMessage" runat="server"></asp:Label>
+            <asp:Label ID="lblMessage" runat="server" ></asp:Label>
 
             <!-- Submit Button -->
            <asp:Button ID="btnSubmit" runat="server" Text="Submit" OnClick="btnSubmit_Click" />
@@ -73,7 +78,7 @@
             <asp:GridView ID="gridView" runat="server"></asp:GridView>
        
 
-        </div>
+     
     </form>
 </body>
 </html>
