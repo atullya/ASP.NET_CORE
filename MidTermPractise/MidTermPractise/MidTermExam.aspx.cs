@@ -1,11 +1,13 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Web;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 using System.Data.SqlClient;
 using System.Data;
+
+
+using System.Collections.Generic;
+using System.Linq;
+using System.Web.UI.WebControls;
 
 namespace MidTermPractise
 {
@@ -27,22 +29,54 @@ namespace MidTermPractise
                 string id = uid.Text;
                 string username = uname.Text;
                 string password = pass.Text;
+           
+
                 string gender = rb1.Checked ? "Male" : "Female";
+                
                 string country = "";
 
                 if (chkNepal.Checked) country += "Nepal ";
                 if (chkIndia.Checked) country += "India ";
                 if (chkOther.Checked) country += "Other ";
+
+
                 string faculty = "";
-                if (coun.SelectedValue != "")
+                if (facu.SelectedValue != "")
                 {
-                    faculty = coun.SelectedValue;
+                    faculty = facu.SelectedValue;
                 }
+<<<<<<< HEAD
+
+                //database connection
+=======
 
                 // Database connection
+>>>>>>> 180efe431780182494b957b97672a6244306908e
                 string cs = "Data Source=DESKTOP-AHSLSJ6;Initial Catalog=db_nccsb;Integrated Security=true";
+<<<<<<< HEAD
+                SqlConnection conn = new SqlConnection(cs);
+                conn.Open();
+
+                string insQuery = "INSERT INTO tbl_reg1  (UserID, Username, Password, Gender, Faculty, Country) VALUES (@UserID, @Username, @Password, @Gender, @Faculty, @Country)";
+                SqlCommand cmd = new SqlCommand(insQuery, conn);
+                
+                cmd.Parameters.AddWithValue("@UserID", id);
+                cmd.Parameters.AddWithValue("@Username", username);
+                cmd.Parameters.AddWithValue("@Password", password);
+                cmd.Parameters.AddWithValue("@Gender", gender);
+                cmd.Parameters.AddWithValue("@Faculty", faculty);
+                cmd.Parameters.AddWithValue("@Country", country);
+                int res = cmd.ExecuteNonQuery();
+                if (res > 0)
+=======
                 using (SqlConnection conn = new SqlConnection(cs))
+>>>>>>> 180efe431780182494b957b97672a6244306908e
                 {
+<<<<<<< HEAD
+                    
+                    lblMessage.Text = "Data Inserted";
+                    LoadData();
+=======
                     conn.Open();
                     CreateTableIfNotExists(); // Ensure table exists before inserting data
 
@@ -67,6 +101,7 @@ namespace MidTermPractise
                             lblMessage.Text = "Data not Inserted.";
                         }
                     }
+>>>>>>> 180efe431780182494b957b97672a6244306908e
                 }
             }
             catch (SqlException s)
@@ -79,6 +114,16 @@ namespace MidTermPractise
         {
             string cs = "Data Source=DESKTOP-AHSLSJ6;Initial Catalog=db_nccsb;Integrated Security=true";
             SqlConnection conn = new SqlConnection(cs);
+<<<<<<< HEAD
+            conn.Open();
+            string query = "SELECT UserID, Username, Gender, Faculty, Country FROM tbl_reg1";
+            SqlDataAdapter da = new SqlDataAdapter(query, conn);
+            DataTable dt = new DataTable();
+            
+            da.Fill(dt);
+            gridView.DataSource = dt;
+            gridView.DataBind();
+=======
             
                 conn.Open();
                 string query = "SELECT UserID, Username, Gender, Faculty, Country FROM tbl_reg1";
@@ -88,6 +133,7 @@ namespace MidTermPractise
                 gridView.DataSource = reader;
                 gridView.DataBind();
             
+>>>>>>> 180efe431780182494b957b97672a6244306908e
         }
 
         private void CreateTableIfNotExists()
